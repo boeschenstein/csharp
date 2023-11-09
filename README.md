@@ -2,3 +2,7 @@
 
 ## Async/Await
 How it really works: <https://devblogs.microsoft.com/dotnet/how-async-await-really-works/>
+
+## System.IO
+
+<https://devblogs.microsoft.com/dotnet/the-convenience-of-system-io/>
