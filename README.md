@@ -14,3 +14,8 @@ How it really works: <https://devblogs.microsoft.com/dotnet/how-async-await-real
 ## System.IO
 
 <https://devblogs.microsoft.com/dotnet/the-convenience-of-system-io/>
+
+## C# 12
+
+- <https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-12>
+- <https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/primary-constructors>
