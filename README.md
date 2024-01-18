@@ -12,7 +12,7 @@ How it really works: <https://devblogs.microsoft.com/dotnet/how-async-await-real
 - Compare Performance <https://tutorials.eu/c-sharp-collections-performance/>
 - Hashtable vs Dictionary vs HashSet <https://www.shekhali.com/csharp-hashtable-vs-dictionary-vs-hashset/>
 - Mystery of Equality in C#: IEquatable<T>, IEqualityComparer<T>, IComparable<T>, IComparer<T>: <https://sasan-salem.medium.com/mystery-of-equality-in-c-iequatable-t-iequalitycomparer-t-icomparable-t-icomparer-t-ab98bd2fe541>
-  - Record  
+  - Record equality: <https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/records#value-equality>
 
 ## System.IO
 
