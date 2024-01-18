@@ -10,6 +10,7 @@ How it really works: <https://devblogs.microsoft.com/dotnet/how-async-await-real
 - Array (fixed size, Range, Indices), Collection, List, Dictionary, Stack, Queue: <https://exceptionnotfound.net/csharp-in-simple-terms-13-arrays-and-collections/>
 - ArrayList, Hashtable: <https://azuliadesigns.com/introduction-programmming/collection-types-array-list-dictionary-hash-table/>
 - Compare Performance <https://tutorials.eu/c-sharp-collections-performance/>
+- Hashtable vs Dictionary vs HashSet <https://www.shekhali.com/csharp-hashtable-vs-dictionary-vs-hashset/>
 
 ## System.IO
 
