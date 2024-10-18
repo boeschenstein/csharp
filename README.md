@@ -1,5 +1,9 @@
 # C#
 
+## .NET
+
+.NET <https://github.com/boeschenstein/dotnet/blob/main/README.md>
+
 ## Async/Await
 
 How it really works: <https://devblogs.microsoft.com/dotnet/how-async-await-really-works/>
@@ -35,6 +39,20 @@ How it really works: <https://devblogs.microsoft.com/dotnet/how-async-await-real
 - <https://learn.microsoft.com/en-us/dotnet/standard/exceptions/best-practices-for-exceptions>
   - While it's best to use predefined exception types when possible, you shouldn't raise some reserved exception types, such as AccessViolationException, IndexOutOfRangeException, NullReferenceException and StackOverflowException. For more information, see CA2201: Do not raise reserved exception types.
 - Best Practice <https://learn.microsoft.com/en-us/dotnet/standard/exceptions/best-practices-for-exceptions>
+- Helpers
+    ArgumentNullException.ThrowIfNull
+    ArgumentException.ThrowIfNullOrEmpty(String, String)
+    ArgumentException.ThrowIfNullOrWhiteSpace(String, String)
+    ArgumentOutOfRangeException.ThrowIfZero<T>(T, String)
+    ArgumentOutOfRangeException.ThrowIfNegative<T>(T, String)
+    ArgumentOutOfRangeException.ThrowIfEqual<T>(T, T, String)
+    ArgumentOutOfRangeException.ThrowIfLessThan<T>(T, T, String)
+    ArgumentOutOfRangeException.ThrowIfNotEqual<T>(T, T, String)
+    ArgumentOutOfRangeException.ThrowIfNegativeOrZero<T>(T, String)
+    ArgumentOutOfRangeException.ThrowIfGreaterThan<T>(T, T, String)
+    ArgumentOutOfRangeException.ThrowIfLessThanOrEqual<T>(T, T, String)
+    ArgumentOutOfRangeException.ThrowIfGreaterThanOrEqual<T>(T, T, String)
+    ObjectDisposedException.ThrowIf 
 
 ## Dispose
 
