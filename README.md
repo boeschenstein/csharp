@@ -34,6 +34,7 @@ How it really works: <https://devblogs.microsoft.com/dotnet/how-async-await-real
 - <https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/exceptions>
 - <https://learn.microsoft.com/en-us/dotnet/standard/exceptions/best-practices-for-exceptions>
   - While it's best to use predefined exception types when possible, you shouldn't raise some reserved exception types, such as AccessViolationException, IndexOutOfRangeException, NullReferenceException and StackOverflowException. For more information, see CA2201: Do not raise reserved exception types.
+- Best Practice <https://learn.microsoft.com/en-us/dotnet/standard/exceptions/best-practices-for-exceptions>
 
 ## Dispose
 
@@ -42,6 +43,7 @@ How it really works: <https://devblogs.microsoft.com/dotnet/how-async-await-real
 ## Documentation
 
 - <https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/>
+- dotnet runtime code <https://github.com/dotnet/runtime/tree/main/src/libraries>
 - <https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/>
   - Naming Guidelines: Provides guidelines for naming assemblies, namespaces, types, and members in class libraries.
   - Type Design Guidelines: Provides guidelines for using static and abstract classes, interfaces, enumerations, structures, and other types.
