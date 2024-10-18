@@ -22,3 +22,31 @@ How it really works: <https://devblogs.microsoft.com/dotnet/how-async-await-real
 
 - <https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-12>
 - <https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/primary-constructors>
+
+## Exceptions
+
+- Podcast unhandled exception: <https://unhandledexceptionpodcast.com/posts/0072-exceptions/Exceptions>
+- <https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/using-standard-exception-types>
+  - ❌ DO NOT throw System.Exception 
+  - ❌ DO NOT throw or derive from ApplicationException.
+  - ✔️ DO throw an InvalidOperationException if the object is in an inappropriate state.
+  - ✔️ DO throw ArgumentException or one of its subtypes if bad arguments are passed to a member. Prefer the most derived exception type, if applicable.
+- <https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/exceptions>
+- <https://learn.microsoft.com/en-us/dotnet/standard/exceptions/best-practices-for-exceptions>
+  - While it's best to use predefined exception types when possible, you shouldn't raise some reserved exception types, such as AccessViolationException, IndexOutOfRangeException, NullReferenceException and StackOverflowException. For more information, see CA2201: Do not raise reserved exception types.
+
+## Dispose
+
+- <https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/dispose-pattern>
+
+## Documentation
+
+- <https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/>
+- <https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/>
+  - Naming Guidelines: Provides guidelines for naming assemblies, namespaces, types, and members in class libraries.
+  - Type Design Guidelines: Provides guidelines for using static and abstract classes, interfaces, enumerations, structures, and other types.
+  - Member Design Guidelines: Provides guidelines for designing and using properties, methods, constructors, fields, events, operators, and parameters.
+  - Designing for Extensibility: Discusses extensibility mechanisms such as subclassing, using events, virtual members, and callbacks, and explains how to choose the mechanisms that best meet your framework's requirements.
+  - Design Guidelines for Exceptions: Describes design guidelines for designing, throwing, and catching exceptions.
+  - Usage Guidelines: Describes guidelines for using common types such as arrays, attributes, and collections, supporting serialization, and overloading equality operators.
+  - Common Design Patterns: Provides guidelines for choosing and implementing dependency properties and the dispose pattern.
