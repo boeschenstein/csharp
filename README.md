@@ -2,7 +2,8 @@
 
 ## .NET
 
-.NET <https://github.com/boeschenstein/dotnet/blob/main/README.md>
+- .NET <https://github.com/boeschenstein/dotnet/blob/main/README.md>
+- C# = Language, .NET = Runtime <https://www.linkedin.com/pulse/understanding-difference-between-net-c-enfixo>
 
 ## Async/Await
 
