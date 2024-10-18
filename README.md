@@ -43,12 +43,3 @@ How it really works: <https://devblogs.microsoft.com/dotnet/how-async-await-real
 ## Documentation
 
 - <https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/>
-- dotnet runtime code <https://github.com/dotnet/runtime/tree/main/src/libraries>
-- <https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/>
-  - Naming Guidelines: Provides guidelines for naming assemblies, namespaces, types, and members in class libraries.
-  - Type Design Guidelines: Provides guidelines for using static and abstract classes, interfaces, enumerations, structures, and other types.
-  - Member Design Guidelines: Provides guidelines for designing and using properties, methods, constructors, fields, events, operators, and parameters.
-  - Designing for Extensibility: Discusses extensibility mechanisms such as subclassing, using events, virtual members, and callbacks, and explains how to choose the mechanisms that best meet your framework's requirements.
-  - Design Guidelines for Exceptions: Describes design guidelines for designing, throwing, and catching exceptions.
-  - Usage Guidelines: Describes guidelines for using common types such as arrays, attributes, and collections, supporting serialization, and overloading equality operators.
-  - Common Design Patterns: Provides guidelines for choosing and implementing dependency properties and the dispose pattern.
