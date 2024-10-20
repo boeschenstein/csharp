@@ -63,6 +63,17 @@ ObjectDisposedException.ThrowIf
 
 - <https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/dispose-pattern>
 
+## Extensions
+
+- Monad, Functor, Option<T>, ... <https://github.com/louthy/language-ext/>
+
+## Monad
+
+- The Absolute Best Intro to Monads For Software Engineers <https://www.youtube.com/watch?v=C2w45qRc3aU>
+- Monads in C#–1. Introduction <https://mikehadlow.blogspot.com/2011/01/monads-in-c1-introduction.html>
+- <https://blog.ploeh.dk/2018/03/19/functors-applicatives-and-friends/>
+- <https://www.antiifprogramming.com/>
+
 ## Documentation
 
 - <https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/>
