@@ -18,6 +18,7 @@ How it really works: <https://devblogs.microsoft.com/dotnet/how-async-await-real
 - Hashtable vs Dictionary vs HashSet <https://www.shekhali.com/csharp-hashtable-vs-dictionary-vs-hashset/>
 - Mystery of Equality in C#: IEquatable<T>, IEqualityComparer<T>, IComparable<T>, IComparer<T>: <https://sasan-salem.medium.com/mystery-of-equality-in-c-iequatable-t-iequalitycomparer-t-icomparable-t-icomparer-t-ab98bd2fe541>
   - Record equality: <https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/records#value-equality>
+- Performance: Mastering Big O Notation (.NET & C#): Unlocking Coding Interview Success <https://levelup.gitconnected.com/unlocking-coding-interview-success-mastering-big-o-notation-net-c-73b4ef1554c5>
 
 ## System.IO
 
@@ -73,6 +74,10 @@ ObjectDisposedException.ThrowIf
 - Monads in C#–1. Introduction <https://mikehadlow.blogspot.com/2011/01/monads-in-c1-introduction.html>
 - <https://blog.ploeh.dk/2018/03/19/functors-applicatives-and-friends/>
 - <https://www.antiifprogramming.com/>
+
+## Strings
+
+- Raw String Literals <https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-11.0/raw-string-literal>
 
 ## Documentation
 
