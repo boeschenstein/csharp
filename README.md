@@ -24,10 +24,23 @@ How it really works: <https://devblogs.microsoft.com/dotnet/how-async-await-real
 
 <https://devblogs.microsoft.com/dotnet/the-convenience-of-system-io/>
 
-## C# 12
+## Versions
+
+<https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/language-versioning>
+
+### C# 11 (.NET 7)
+
+- Raw String Literals <https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-11.0/raw-string-literal>
+- <https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-11>
+
+### C# 12 (.NET 8)
 
 - <https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-12>
 - <https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/primary-constructors>
+
+### C# 13 (.NET 9)
+
+- <https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-13>
 
 ## Exceptions
 
@@ -77,7 +90,7 @@ ObjectDisposedException.ThrowIf
 
 ## Strings
 
-- Raw String Literals <https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-11.0/raw-string-literal>
+- Verbatim String Literals vs Raw String Literals in C# <https://www.csharp.com/article/verbatim-string-literals-vs-raw-string-literals-in-c-sharp/>
 
 ## Documentation
 
