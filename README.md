@@ -78,6 +78,7 @@ ObjectDisposedException.ThrowIf
 ## Dispose
 
 - <https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/dispose-pattern>
+- <https://dotnettips.wordpress.com/2025/01/13/stop-the-leaks-properly-disposing-objects-in-net/>
 
 ## Extensions
 
