@@ -44,6 +44,10 @@ How it really works: <https://devblogs.microsoft.com/dotnet/how-async-await-real
 - New GUID Version 7
   other options: ULID, compatible with GUID (<https://youtube.com/shorts/A4q56XoKnW8>)
 
+### C# 14 (.NET 10)
+
+<https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-14>
+
 ## Exceptions
 
 - Podcast unhandled exception: <https://unhandledexceptionpodcast.com/posts/0072-exceptions/Exceptions>
