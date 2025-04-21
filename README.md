@@ -9,6 +9,8 @@
 
 How it really works: <https://devblogs.microsoft.com/dotnet/how-async-await-really-works/>
 
+Async in Conctructor? Use factory: <https://youtu.be/lQu-eBIIh-w?si=JiWsOoakJTQ8vvQb&t=1031>
+
 ## Lists
 
 - Collections and Data Structures <https://learn.microsoft.com/en-us/dotnet/standard/collections/>
